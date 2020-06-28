@@ -1,0 +1,27 @@
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.Form1.resources
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.Properties.Resources.resources
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.exe.config
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.exe
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.pdb
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.exe
+C:\Users\Coa\documents\visual studio 2017\Projects\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.pdb
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.exe.config
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.exe
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.pdb
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.Form1.resources
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.Properties.Resources.resources
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.exe
+C:\Users\Coa\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.pdb
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.exe.config
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.exe
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\bin\Debug\Projekat_Prodavnica.pdb
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.Form1.resources
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.Properties.Resources.resources
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.exe
+C:\Users\aleks\Desktop\Projekat_Prodavnica\Projekat_Prodavnica\obj\Debug\Projekat_Prodavnica.pdb
